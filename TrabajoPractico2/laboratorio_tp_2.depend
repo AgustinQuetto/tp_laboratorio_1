@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1492980000 source:c:\users\usuario\desktop\pagina\tp.2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1492981538 source:c:\users\usuario\desktop\pagina\tp.2.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1492979208 c:\users\usuario\desktop\pagina\tp.2.2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493057474 source:f:\tp.2.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1492979210 f:\tp.2.2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493057612 source:f:\tp.2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493270656 source:i:\tp.2.2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493256026 i:\tp.2.2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493256080 source:i:\tp.2.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493256080 source:c:\users\ignacio\documents\tp-2-laboratorio\tp2_laboratorio-y-programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493256026 c:\users\ignacio\documents\tp-2-laboratorio\tp2_laboratorio-y-programacion\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493344146 source:c:\users\agustín\desktop\tp-2-laboratorio-programacion-master\tp2_laboratorio-y-programacion\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1493311871 c:\users\agustín\desktop\tp-2-laboratorio-programacion-master\tp2_laboratorio-y-programacion\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1493311871 source:c:\users\agustín\desktop\tp-2-laboratorio-programacion-master\tp2_laboratorio-y-programacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
