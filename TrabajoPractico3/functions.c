@@ -116,15 +116,15 @@ void agregarPelicula(EMovie *moviesList,int countMovies,int* pointerCount)
         gets(auxGenero);
         validateString(auxGenero,50);
         strcpy((moviesList+ubicacion)->genero,auxGenero);
-        printf("Duracion (minutos): ");
-        scanf("%d",&duracion);
-        duracion=validateMinMax(duracion,0,400);
-        (moviesList+ubicacion)->duracion=duracion;
         printf("Descripcion: ");
         fflush(stdin);
         gets(auxDescripcion);
         validateString(auxDescripcion,50);
         strcpy((moviesList+ubicacion)->descripcion,auxDescripcion);
+        printf("Duracion (minutos): ");
+        scanf("%d",&duracion);
+        duracion=validateMinMax(duracion,0,400);
+        (moviesList+ubicacion)->duracion=duracion;
         printf("Puntaje (1 a 10): ");
         scanf("%d",&puntaje);
         puntaje=validateMinMax(puntaje,1,10);
@@ -172,7 +172,7 @@ void modifyMovie(EMovie *moviesList,int countMovies)
             printf("5. Puntaje\n");
             printf("6. Link a imagen\n");
             printf("7. Cancelar\n");
-            fflush(stdin);
+            printf("Opcion: ");
             scanf("%d",&opcion);
             switch(opcion)
             {
