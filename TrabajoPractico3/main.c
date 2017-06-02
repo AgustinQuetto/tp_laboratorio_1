@@ -18,7 +18,7 @@ int main()
         if(moviesList==NULL)
         {
             printf("\nNo hay espacio en memoria.\n");
-            exit(0);
+            exit(1);
         }
 
     //inicializa en 0
